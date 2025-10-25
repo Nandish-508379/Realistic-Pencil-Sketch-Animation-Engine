@@ -1,0 +1,10 @@
+# =============================================================================
+# Project ID   : 006/2025
+# Project Name : Dynamic Pencil Sketch Animation & Color Transition Engine
+# Release Year : 2025
+# Dependencies
+# =============================================================================
+
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
